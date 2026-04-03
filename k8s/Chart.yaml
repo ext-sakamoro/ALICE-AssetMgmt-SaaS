@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_ASSETMGMT
+name: alice-assetmgmt
 description: ALICE AssetMgmt
 type: application
 version: 0.1.0
